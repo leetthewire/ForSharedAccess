@@ -1,0 +1,4 @@
+F:\game\__BaseEngine\Sources\step2 engine\ObjectsLoader\x64\Debug\ObjectsLoader.exe
+F:\game\__BaseEngine\Sources\step2 engine\ObjectsLoader\x64\Debug\ObjectsLoader.pdb
+F:\game\__BaseEngine\Sources\step2 engine\Text changer\x64\Debug\ObjectsLoader.exe
+F:\game\__BaseEngine\Sources\step2 engine\Text changer\x64\Debug\ObjectsLoader.pdb
